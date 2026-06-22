@@ -10,7 +10,7 @@
 | | |
 |---|---|
 | 🚀 **Live Demo** | [carbon-tracker-coral.vercel.app](https://carbon-tracker-coral.vercel.app) |
-| 💻 **GitHub** | [github.com/Disshuu/carbon-tracker](https://github.com/Disshuu/carbon-tracker) |
+| 💻 **GitHub** | [github.com/Disshuu/carbon-tracker](https://github.com/divya6272/carbon-tracker.git) |
 
 ---
 
