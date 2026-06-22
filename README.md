@@ -91,8 +91,8 @@ App runs at `http://localhost:3000`
 Final year B.Tech Data Science · IES IPS Academy, Indore  
 Specializing in AI/ML · RAG Pipelines · LLM Integration · Generative AI
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-divya--ramnani-blue)](https://linkedin.com/in/divya-ramnani)
-[![GitHub](https://img.shields.io/badge/GitHub: github.com/divya6272/carbon-tracker)](https://github.com/divya6272/carbon-tracker.git)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-divya--ramnani-blue?logo=linkedin)](https://linkedin.com/in/divya-ramnani)
+[![GitHub](https://img.shields.io/badge/GitHub-carbon--tracker-black?logo=github)](https://github.com/divya6272/carbon-tracker)
 
 ---
 
