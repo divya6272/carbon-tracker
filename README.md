@@ -92,7 +92,7 @@ Final year B.Tech Data Science · IES IPS Academy, Indore
 Specializing in AI/ML · RAG Pipelines · LLM Integration · Generative AI
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-divya--ramnani-blue)](https://linkedin.com/in/divya-ramnani)
-[![GitHub](https://img.shields.io/badge/GitHub-divya6272-carbon-tracker)](https://github.com/divya6272/carbon-tracker.git)
+[![GitHub](https://img.shields.io/badge/GitHub: github.com/divya6272/carbon-tracker)](https://github.com/divya6272/carbon-tracker.git)
 
 ---
 
