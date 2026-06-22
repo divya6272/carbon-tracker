@@ -1,6 +1,6 @@
 # 🌿 EcoTrace — Carbon Footprint Awareness Platform
 
-> **PromptWars 2026 × Google for Developers** — Main Challenge 3  
+> **PromptWars 2026 × Google for Developers** — Main Challenge 3
 > Built by **Divya Ramnani** · AI/ML Engineer · IES IPS Academy, Indore
 
 ---
